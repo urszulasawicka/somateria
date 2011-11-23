@@ -1,8 +1,9 @@
-Projekt: „Gastronauta”
+# Projekt: „Gastronauta”
 
-System zbierający informacje na temat restauracji dostępnych w danej okolicy. 
+System zbierający informacje na temat restauracji dostępnych w danej okolicy.
 
-Szczegóły:
+## Szczegóły
+
 - użytkownicy dodają informacje o restauracjach,
 - każda restauracja posiada ocenę,
 - ocena podzielona na kilka kategorii,
@@ -13,8 +14,8 @@ Szczegóły:
 - system posiada wyszukiwarkę pozwalającą na wyszukiwanie różnych artykułów po cenach.
 
 
+## Technologie, jakie planujemy użyć
 
-Technologie, jakie planujemy użyć:
 - CoffeeScript,
 - Ruby on Rails,
 - CSS3,
