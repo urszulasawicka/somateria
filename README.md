@@ -14,7 +14,7 @@ System zbierający informacje na temat restauracji dostępnych w danej okolicy.
 - system posiada wyszukiwarkę pozwalającą na wyszukiwanie różnych artykułów po cenach.
 
 
-## Technologie, jakie planujemy użyć
+## Technologie, jakich planujemy użyć
 
 - CoffeeScript,
 - Ruby on Rails,
