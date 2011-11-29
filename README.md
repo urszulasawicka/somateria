@@ -25,4 +25,4 @@ System zbierający informacje na temat restauracji dostępnych w danej okolicy.
 
 
 ## Metodologia pracy
-Próba wcielenia w życie metodologi SCRUM (sprinty co tydzień, aktualny stan prac, wykonywanie małych zadań jako drobnych "kroków" w projekcie.
+Próba wcielenia w życie metodologii SCRUM (sprinty co tydzień, aktualny stan prac, wykonywanie małych zadań jako drobnych "kroków" w projekcie.
