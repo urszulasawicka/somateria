@@ -20,4 +20,9 @@ System zbierający informacje na temat restauracji dostępnych w danej okolicy.
 - Ruby on Rails,
 - CSS3,
 - HTML5,
-- github.com jako repozytorium danych.
+- github.com jako repozytorium danych,
+- SourceForge jako platforma organizacji pracy (tickety, przydział zadań): [23:09:56] usia: !([23:08:29] usia: https://sourceforge.net/projects/gastronauta).
+
+
+## Metodologia pracy
+Próba wcielenia w życie metodologi SCRUM (sprinty co tydzień, aktualny stan prac, wykonywanie małych zadań jako drobnych "kroków" w projekcie.
