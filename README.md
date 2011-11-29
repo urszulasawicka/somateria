@@ -21,7 +21,7 @@ System zbierający informacje na temat restauracji dostępnych w danej okolicy.
 - CSS3,
 - HTML5,
 - github.com jako repozytorium danych,
-- SourceForge jako platforma organizacji pracy (tickety, przydział zadań): https://sourceforge.net/projects/gastronauta
+- SourceForge jako platforma organizacji pracy (tickety, przydział zadań): https://sourceforge.net/projects/gastronauta.
 
 
 ## Metodologia pracy
