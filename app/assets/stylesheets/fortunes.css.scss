@@ -1,0 +1,49 @@
+/* Place all the styles related to the fortunes controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/ */
+
+#restaurants {
+	overflow: auto;
+	width: 76%;
+	height: 100%;
+	margin: 0 auto;
+	float: left;
+}
+
+#tools {
+	float: right;
+	height: 100%;
+	width: 23%;
+	margin: 0 auto;
+	padding: 5px 0 0 0;
+	background-image: url('images/bg_dotted.png');
+}
+
+.restaurant {
+	position: relative;
+	margin: 7px auto 7px 5px;
+	padding: 5px 15px 7px 15px;
+	border: 1px solid orange;
+	float: left;
+	width: 94%;
+	height: auto;
+		background-image: linear-gradient(bottom, rgb(255,102,0) 41%, rgb(255,204,0) 71%);
+		background-image: -o-linear-gradient(bottom, rgb(255,102,0) 41%, rgb(255,204,0) 71%);
+		background-image: -moz-linear-gradient(bottom, rgb(255,102,0) 41%, rgb(255,204,0) 71%);
+		background-image: -webkit-linear-gradient(bottom, rgb(255,102,0) 41%, rgb(255,204,0) 71%);
+		background-image: -ms-linear-gradient(bottom, rgb(255,102,0) 41%, rgb(255,204,0) 71%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left bottom,
+			left top,
+			color-stop(0.41, rgb(255,102,0)),
+			color-stop(0.71, rgb(255,204,0))
+		);
+	border-radius: 1.5em;
+	-moz-box-shadow: 10px 10px 5px #888;
+	-webkit-box-shadow: 10px 10px 5px #888;
+	box-shadow: 10px 10px 5px #888;
+}
+
+

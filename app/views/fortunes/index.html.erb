@@ -1,0 +1,23 @@
+<section id="content">
+	<section id="content-title"><h1>Lista dostępnych restauracji w Twojej okolicy.</h1></section>
+	<section id="content-frame">
+		<section id="restaurants">
+			<% @fortunes.each do |fortune| %>
+				<div class="restaurant">
+					<%= fortune.quotation %>
+					<%= fortune.source %>
+					<br>
+					<%= link_to 'Pokaż', fortune %>
+					<%= link_to 'Edytuj', edit_fortune_path(fortune) %>
+					<%= link_to 'Usuń', fortune, confirm: 'Jesteś tego pewien?', method: :delete %>
+				</div>
+			<% end %>
+		</section>
+		
+		<section id="tools">
+			<%= link_to 'Nowa', new_fortune_path %>
+			<br><br>Miejsce na jakies filtry wyszukiwania.
+		</section>
+		<div style="clear: both;">
+	</section>
+</section>
