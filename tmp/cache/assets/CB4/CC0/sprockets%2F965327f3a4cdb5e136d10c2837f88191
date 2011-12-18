@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1324161737.162384:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%4f5cbb0385dc0bc4e52710be21e440fdI"logical_path;
+FI"images/bg_dotted.png;
+TI"pathname;
+FI"6$root/app/assets/stylesheets/images/bg_dotted.png;
+FI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2011-12-17T23:40:47+01:00;
+FI"length;
+FI"166;
+FI"digest;
+F"%e60c914ebd69febb1774969de081fdaaI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

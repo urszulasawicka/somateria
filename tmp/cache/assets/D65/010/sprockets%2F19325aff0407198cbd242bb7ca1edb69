@@ -1,0 +1,18 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1324143983.0790446:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%a6f29b00d30dc5c82e663eb8b6e81627I"logical_path;
+FI"SMEGALOM.TTF;
+TI"pathname;
+FI".$root/app/assets/stylesheets/SMEGALOM.TTF;
+FI"content_type;
+FI"application/octet-stream;
+FI"
+mtime;
+FI"1997-08-26T23:17:00+02:00;
+FI"length;
+FI"
+30036;
+FI"digest;
+F"%53b2cae4db5b3fe1e4b06040db626d5bI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

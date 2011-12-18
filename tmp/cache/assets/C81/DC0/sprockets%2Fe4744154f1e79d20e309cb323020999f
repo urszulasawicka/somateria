@@ -1,0 +1,17 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1324141499.7117512:@value{I"
+class:EFI"StaticAsset;
+FI"id;
+F"%0186154cd9817210d74e80e3b119ba1eI"logical_path;
+FI"images/indeks.png;
+TI"pathname;
+FI"3$root/app/assets/stylesheets/images/indeks.png;
+FI"content_type;
+FI"image/png;
+FI"
+mtime;
+FI"2011-12-17T18:02:38+01:00;
+FI"length;
+FI"	3458;
+FI"digest;
+F"%8c37022436e4fe9673e818d4820684baI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

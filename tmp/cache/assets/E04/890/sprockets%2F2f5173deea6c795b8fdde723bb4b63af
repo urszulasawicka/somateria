@@ -1,0 +1,61 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1323801706.4090824:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%a05ba2ea5dbe3a3ad06588efbec457c3I"logical_path;
+FI"application.js;
+TI"pathname;
+FI"0$root/app/assets/javascripts/application.js;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2011-12-13T19:39:47+01:00;
+FI"	body;
+FI"”// This is a manifest file that'll be compiled into including all the files listed below.
+// Add new JavaScript/Coffee code in separate files in this directory and they'll automatically
+// be included in the compiled file accessible from http://example.com/assets/application.js
+// It's not advisable to add code directly here, but if you do, it'll appear at the bottom of the
+// the compiled file.
+//
+;
+;
+FI"asset_paths;
+F[	"Z/usr/lib/ruby/gems/1.9.1/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.js"^/usr/lib/ruby/gems/1.9.1/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"4$root/app/assets/javascripts/fortunes.js.coffee;
+FI"0$root/app/assets/javascripts/application.js;
+FI"dependency_paths;
+F[
+{I"	path;
+FI"0$root/app/assets/javascripts/application.js;
+FI"
+mtime;
+FIu:	Time²í€ž6^’
+:@_zoneI"CET;
+T:nano_numiÎ:nano_deni:submicro" `:offsetiI"hexdigest;
+F"%549ddbd6cc7eb5cac3ef01164f35f695{I"	path;
+FI"!$root/app/assets/javascripts;
+FI"
+mtime;
+FIu;²í€“%þž
+;I"CET;
+T;iA;i;"Wp;iI"hexdigest;
+F"%93a3b6b1b5e29df26728d7bee1ed1d75{I"	path;
+F"Z/usr/lib/ruby/gems/1.9.1/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery.jsI"
+mtime;
+FIu;²í€]v
+;I"CET;
+T;iÂ;i;"– ;iI"hexdigest;
+F"%683679b346b30943f8589b640966202a{I"	path;
+F"^/usr/lib/ruby/gems/1.9.1/gems/jquery-rails-1.0.19/vendor/assets/javascripts/jquery_ujs.jsI"
+mtime;
+FIu;²í€]v
+;I"CET;
+T;iÂ;i;"– ;iI"hexdigest;
+F"%2caafa0c2617f9985c1a0b07ebaefadf{I"	path;
+FI"4$root/app/assets/javascripts/fortunes.js.coffee;
+FI"
+mtime;
+FIu;²í€“%þž
+;I"CET;
+T;iA;i;"Wp;iI"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322aI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

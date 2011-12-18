@@ -1,0 +1,64 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1324161737.0032969:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%48020d50c419ab505fc77d880208ac10I"logical_path;
+F"fortunes.cssI"pathname;
+FI"3$root/app/assets/stylesheets/fortunes.css.scss;
+FI"content_type;
+FI"text/css;
+FI"
+mtime;
+FI"2011-12-17T23:42:11+01:00;
+FI"	body;
+FI"5/* line 5, /home/einstein/Pulpit/Gastro/fortunka/app/assets/stylesheets/fortunes.css.scss */
+#restaurants {
+  overflow: auto;
+  width: 76%;
+  height: 100%;
+  margin: 0 auto;
+  float: left;
+}
+
+/* line 13, /home/einstein/Pulpit/Gastro/fortunka/app/assets/stylesheets/fortunes.css.scss */
+#tools {
+  float: right;
+  height: 100%;
+  width: 23%;
+  margin: 0 auto;
+  padding: 5px 0 0 0;
+  background-image: url("images/bg_dotted.png");
+}
+
+/* line 22, /home/einstein/Pulpit/Gastro/fortunka/app/assets/stylesheets/fortunes.css.scss */
+.restaurant {
+  position: relative;
+  margin: 7px auto 7px 5px;
+  padding: 5px 15px 7px 15px;
+  border: 1px solid orange;
+  float: left;
+  width: 94%;
+  height: auto;
+  background-image: linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
+  background-image: -o-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
+  background-image: -moz-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
+  background-image: -webkit-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
+  background-image: -ms-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.41, #ff6600), color-stop(0.71, #ffcc00));
+  border-radius: 1.5em;
+  -moz-box-shadow: 10px 10px 5px #888;
+  -webkit-box-shadow: 10px 10px 5px #888;
+  box-shadow: 10px 10px 5px #888;
+}
+;
+FI"asset_paths;
+F[I"3$root/app/assets/stylesheets/fortunes.css.scss;
+FI"dependency_paths;
+F[{I"	path;
+FI"3$root/app/assets/stylesheets/fortunes.css.scss;
+FI"
+mtime;
+FIu:	Time6î€÷ž³¨
+:@_zoneI"CET;
+T:nano_numi¶:nano_deni:submicro" :offsetiI"hexdigest;
+F"%c7065d39441d711d1e81f97b23627f5cI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

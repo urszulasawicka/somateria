@@ -1,0 +1,27 @@
+o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1323801706.4047263:@value{I"
+class:EFI"BundledAsset;
+FI"id;
+F"%2aece1c8604715b6665f0b74e2e22b61I"logical_path;
+F"fortunes.jsI"pathname;
+FI"4$root/app/assets/javascripts/fortunes.js.coffee;
+FI"content_type;
+FI"application/javascript;
+FI"
+mtime;
+FI"2011-12-13T19:39:47+01:00;
+FI"	body;
+FI"
+
+;
+TI"asset_paths;
+F[I"4$root/app/assets/javascripts/fortunes.js.coffee;
+FI"dependency_paths;
+F[{I"	path;
+FI"4$root/app/assets/javascripts/fortunes.js.coffee;
+FI"
+mtime;
+FIu:	Time²í€“%þž
+:@_zoneI"CET;
+T:nano_numiA:nano_deni:submicro"Wp:offsetiI"hexdigest;
+F"%c12f0621e8cbf15a5c4dfa732f9f322aI"_version;
+F"%46dde6621c301f4928e3b34efee9e3b5

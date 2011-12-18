@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Gastronauta</title>
+		<%= stylesheet_link_tag    "application" %>
+		<%= javascript_include_tag "application" %>
+		<%= csrf_meta_tags %>
+	</head>
+	
+	<body>
+		
+		<section id="header">
+			<h1>Gastronauta</h1>
+		</section id="header">
+
+		<%= yield %>
+
+		<footer><p>Gastronauta<p></footer>
+	</body>
+</html>
