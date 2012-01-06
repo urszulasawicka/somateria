@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Fortunka::Application.load_tasks
+Gastronauta::Application.load_tasks

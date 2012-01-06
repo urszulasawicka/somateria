@@ -1,44 +1,0 @@
-o: ActiveSupport::Cache::Entry	:@compressedF:@expires_in0:@created_atf1324161737.0146992:@value{	I"length:EFi5I"digest;
-F"%d1f9b2914e26fe5fb57e7debf2fa11b5I"source;
-FI"5/* line 5, /home/einstein/Pulpit/Gastro/fortunka/app/assets/stylesheets/fortunes.css.scss */
-#restaurants {
-  overflow: auto;
-  width: 76%;
-  height: 100%;
-  margin: 0 auto;
-  float: left;
-}
-
-/* line 13, /home/einstein/Pulpit/Gastro/fortunka/app/assets/stylesheets/fortunes.css.scss */
-#tools {
-  float: right;
-  height: 100%;
-  width: 23%;
-  margin: 0 auto;
-  padding: 5px 0 0 0;
-  background-image: url("images/bg_dotted.png");
-}
-
-/* line 22, /home/einstein/Pulpit/Gastro/fortunka/app/assets/stylesheets/fortunes.css.scss */
-.restaurant {
-  position: relative;
-  margin: 7px auto 7px 5px;
-  padding: 5px 15px 7px 15px;
-  border: 1px solid orange;
-  float: left;
-  width: 94%;
-  height: auto;
-  background-image: linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
-  background-image: -o-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
-  background-image: -moz-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
-  background-image: -webkit-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
-  background-image: -ms-linear-gradient(bottom, #ff6600 41%, #ffcc00 71%);
-  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.41, #ff6600), color-stop(0.71, #ffcc00));
-  border-radius: 1.5em;
-  -moz-box-shadow: 10px 10px 5px #888;
-  -webkit-box-shadow: 10px 10px 5px #888;
-  box-shadow: 10px 10px 5px #888;
-}
-;
-FI"_version;
-F"%48020d50c419ab505fc77d880208ac10

@@ -1,0 +1,38 @@
+<section id="content">
+	<section id="content-title"><h1>Lista dostępnych restauracji w Twojej okolicy.</h1></section>
+	<section id="content-frame">
+		<section id="restaurants">
+
+			<h1>Listing restaurants</h1>
+			<div class="restaurant">
+				<table>
+				  <tr>
+				    <th>Name</th>
+				    <th>Description</th>
+				    <th></th>
+				    <th></th>
+				    <th></th>
+				  </tr>
+
+					<% @restaurants.each do |restaurant| %>
+						<tr>
+						    <td><%= restaurant.name %></td>
+						    <td><%= restaurant.description %></td>
+						    <td><%= link_to 'Show', restaurant %></td>
+						    <td><%= link_to 'Edit', edit_restaurant_path(restaurant) %></td>
+						    <td><%= link_to 'Destroy', restaurant, confirm: 'Are you sure?', method: :delete %></td>
+						  </tr>
+					<% end %>
+				</table>
+			</div>
+
+			<br />
+		</section>
+		
+		<section id="tools">
+			<%= link_to 'New Restaurant', new_restaurant_path %>
+			<br><br>Miejsce na jakies filtry wyszukiwania.
+		</section>
+		<div style="clear: both;">
+	</section>
+</section>
